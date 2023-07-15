@@ -1,0 +1,72 @@
+/* Global Styles */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #360969;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #977f7f; /* Change the color as per your preference */
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #360969;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+  }
+  /* Home Page Styles */
+  
+  .hero {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .featured-recipes {
+    margin-bottom: 20px;
+  }
+  
+  /* Recipes Page Styles */
+  
+  .recipe-list {
+    margin-bottom: 20px;
+  }
+  
+  /* About Page Styles */
+  
+  .about {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
